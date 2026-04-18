@@ -1,0 +1,15 @@
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\obj\Debug\net10.0\Desafio2_ME262521_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\obj\Debug\net10.0\Desafio2_ME262521_.AssemblyInfoInputs.cache
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\obj\Debug\net10.0\Desafio2_ME262521_.AssemblyInfo.cs
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\obj\Debug\net10.0\Desafio2_ME262521_.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\obj\Debug\net10.0\Desafio2_ME262521_.sourcelink.json
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\bin\Debug\net10.0\Desafio2_ME262521_.exe
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\bin\Debug\net10.0\Desafio2_ME262521_.deps.json
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\bin\Debug\net10.0\Desafio2_ME262521_.runtimeconfig.json
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\bin\Debug\net10.0\Desafio2_ME262521_.dll
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\bin\Debug\net10.0\Desafio2_ME262521_.pdb
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\obj\Debug\net10.0\Desafio2_ME262521_.dll
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\obj\Debug\net10.0\refint\Desafio2_ME262521_.dll
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\obj\Debug\net10.0\Desafio2_ME262521_.pdb
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\obj\Debug\net10.0\Desafio2_ME262521_.genruntimeconfig.cache
+C:\Users\Kevin\OneDrive\Documentos\DESAFIO_2ME262521\Desafio2\Desafio2_ME262521_\obj\Debug\net10.0\ref\Desafio2_ME262521_.dll
