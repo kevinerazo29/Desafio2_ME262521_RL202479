@@ -16,11 +16,12 @@ Tecnologías utilizadas
 - C#
 - .NET
 - Visual Studio Code
+- Visual Studio
 - GitHub
 
 Instrucciones de ejecución 
 
-1. Abrir el proyecto en Visual Studio Code
+1. Abrir el proyecto Juego del Ahorcado en Visual Studio y el Sistema de Registro de Notas Estudiantil en Visual Studio Code 
 2. Abrir terminal
 3. Ejecutar el siguiente comando:
 
