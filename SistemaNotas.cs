@@ -5,7 +5,9 @@ class Program
     static void Main(string[] args)
 
     {
-        Console.WriteLine("== SISTEMA DE REGISTRO DE NOTAS =="); 
+        Console.WriteLine("=====================================");
+        Console.WriteLine("   SISTEMA DE REGISTRO DE NOTAS");
+        Console.WriteLine("=====================================");
 
         // Cantidad de estudiantes 
         Console.Write("Ingrese la cantidad de estudiantes: ");
