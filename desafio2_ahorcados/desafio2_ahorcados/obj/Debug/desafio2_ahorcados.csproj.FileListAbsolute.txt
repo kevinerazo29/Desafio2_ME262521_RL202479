@@ -1,0 +1,8 @@
+C:\Users\Carlos Rosales\OneDrive\Desktop\desafio2_ahorcados\desafio2_ahorcados\obj\Debug\desafio2_ahorcados.csproj.AssemblyReference.cache
+C:\Users\Carlos Rosales\OneDrive\Desktop\desafio2_ahorcados\desafio2_ahorcados\obj\Debug\desafio2_ahorcados.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Rosales\OneDrive\Desktop\desafio2_ahorcados\desafio2_ahorcados\bin\Debug\desafio2_ahorcados.exe.config
+C:\Users\Carlos Rosales\OneDrive\Desktop\desafio2_ahorcados\desafio2_ahorcados\bin\Debug\desafio2_ahorcados.exe
+C:\Users\Carlos Rosales\OneDrive\Desktop\desafio2_ahorcados\desafio2_ahorcados\bin\Debug\desafio2_ahorcados.pdb
+C:\Users\Carlos Rosales\OneDrive\Desktop\desafio2_ahorcados\desafio2_ahorcados\obj\Debug\desafio2_ahorcados.exe
+C:\Users\Carlos Rosales\OneDrive\Desktop\desafio2_ahorcados\desafio2_ahorcados\obj\Debug\desafio2_ahorcados.pdb
+C:\Users\Carlos Rosales\OneDrive\Desktop\desafio2_ahorcados\desafio2_ahorcados\obj\Debug\desafio2_ahorcados.exe.config
